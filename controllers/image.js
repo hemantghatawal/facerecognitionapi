@@ -1,3 +1,4 @@
+const dotenv = require('dotenv').config();
 const Clarifai = require('clarifai');
 
 //Clarifai API Key
